@@ -1,7 +1,7 @@
 <h2 align="center">Howdy👋. I am Max The Stranger🤓</h2>
 <p align="center">A Front-End Software Developer, Learning Back-End Development, with interest in Enterprise Patterns, DDD/CQRS/ES & Microservices. Oh! Also a pretty decent music producer🎶, based in Nairobi.</p>
 <p>I'm currently enrolled in OSSU (Open Source Society University), taking computer science while freelancing at Upwork and working on some personal projects.</p>
-<p><strong>As of now, skillset :</strong></p>
+<p><strong>As of now :</strong></p>
 
 ### 📰 Skillset
 
@@ -13,7 +13,7 @@
 - Participating in code reviews, scrum as part of agile methodology expirience -- <small><q><em>jira - pivotal tracker</em></q></small>
 - Building visualization tools, particularly geospatial mapping.
 - Contributing to both open source code and managed service platforms
-- some freamworks...
+- some frameworks...
 
 <p>When I'm not developing and building things, you can find me on Youtube making and watching silly videos (sometimes tutorials), writing articles on my blog, playing FIFA with mi amigos, <em><small> - which am striving to be the unbeated champion btw - </small></em>, producing music especially afrobeat, trap and deep house. But most of my days are spent working on projects(my own and my clients) while listening to deehouse, ChillHop and/or Opera Music.</p>
 
