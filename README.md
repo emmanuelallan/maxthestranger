@@ -1,6 +1,6 @@
 <h2 align="center">Howdy👋. I am Max The Stranger🤓</h2>
 <p align="center">A Front-End Software Developer, Learning Back-End Development, with interest in Enterprise Patterns, DDD/CQRS/ES & Microservices. Oh! Also a pretty decent music producer🎶, based in Nairobi.</p>
-<p>I'm currently enrolled in OSSU (Open Source Society University), taking computer science while freelancing at Upwork and working on some personal projects.</p>
+<p>I'm currently enrolled at OSSU (Open Source Society University), taking computer science while freelancing at Upwork and working on some personal projects.</p>
 <p><strong>As of now :</strong></p>
 
 ### 📰 Skillset
