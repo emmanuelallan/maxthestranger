@@ -1,9 +1,27 @@
-### Hi ✋🏾
+### Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
+
+<br/>
 
 I'm Max The Stranger
 
-- 🌱 I’m currently learning `vue`, `golang`, `typescript`, `python`
+- 🌱 I’m currently learning `golang`, `typescript`, `devops`
 - 💬 [Max The Stranger Blog](https://code.maxthestranger.com/)
+
+### 🛠 I code using
+
+<!-- ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) -->
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)
+![React](https://img.shields.io/badge/-React-05122A?&logo=React)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
+
+<!-- ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker) -->
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript) -->
+
+<!-- <hr> -->
 
 ![maxthestranger's github stats](https://github-readme-stats.vercel.app/api?username=maxthestranger&show_icons=true&theme=vue-dark)
 
@@ -22,3 +40,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 📫 [Dreamhunter resume](https://hacknical.com/maxthestranger/resume?locale=zh)
 -->
+<hr>
+
+<h3 align="center">📫 Connect with me:<h3>
+
+<p align="center">
+<a href="https://twitter.com/maxthestranger" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="maxthestranger" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/maxthestranger/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="maxthestranger" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/max_the_stranger" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="max_the_stranger" height="45" width="45" /></a>
+</p>
