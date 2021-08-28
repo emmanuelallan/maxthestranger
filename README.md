@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <h3 align="center">📫 Connect with me:<h3>
 
 <p align="center">
-<a href="https://twitter.com/maxthestranger" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="maxthestranger" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/maxthestranger/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="maxthestranger" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/max_the_stranger" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="max_the_stranger" height="45" width="45" /></a>
+<a href="https://twitter.com/maxthestranger" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="maxthestranger" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/maxthestranger/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="maxthestranger" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/max_the_stranger" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="max_the_stranger" height="45" width="45" /></a>
 </p>
