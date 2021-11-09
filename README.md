@@ -13,7 +13,7 @@ I'm Max The Stranger
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?&logo=Ruby)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
