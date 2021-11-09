@@ -4,7 +4,7 @@
 
 I'm Max The Stranger
 
-- 🌱 I’m currently learning `golang`, `typescript`, `devops`
+- 🌱 I’m currently learning `ruby on rails`, `typescript`, `devops`
 - 💬 [Max The Stranger Blog](https://code.maxthestranger.com/)
 
 ### 🛠 I code using
