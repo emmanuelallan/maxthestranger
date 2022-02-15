@@ -24,8 +24,8 @@ I'm Max The Stranger
 <!-- <hr> -->
 
 ![maxthestranger's github stats](https://github-readme-stats.vercel.app/api?username=maxthestranger&show_icons=true&theme=vue-dark)
-![](https://komarev.com/ghpvc/?username=maxthestranger&color=dc143c)
 
+![](https://komarev.com/ghpvc/?username=maxthestranger&color=152136)
 <!--
 **maxthestranger/maxthestranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
