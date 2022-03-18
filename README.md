@@ -5,7 +5,7 @@
 I'm Max The Stranger
 
 - 🌱 I’m currently learning `ruby`, `typescript`, `devops`
-- 💬 [Max The Stranger Blog](https://code.maxthestranger.com/)
+- 💬 [Max The Stranger Blog](https://vercel.com/maxthestranger/code-maxthestranger-com-v2/2Ympvg1QDE33AwpWckUnCVp3oukb)
 
 ### 🛠 I code using
 
