@@ -5,7 +5,8 @@
 I'm Max The Stranger
 
 - 🌱 I’m currently a student at `microverse` learning `ruby`, `react` & `agile`
-- 💬 [Max The Stranger Blog](https://code.maxthestranger.com/)
+<!-- - 💬 [Max The Stranger Blog](https://code.maxthestranger.com/) -->
+- 💬 <a href="https://code.maxthestranger.com/" target="_blank">Max The Stranger Blog</a>
 
 ### 🛠 I code using
 
