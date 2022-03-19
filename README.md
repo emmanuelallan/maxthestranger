@@ -4,7 +4,7 @@
 
 I'm Max The Stranger
 
-- 🌱 I’m currently learning `ruby`, `typescript`, `devops`
+- 🌱 I’m currently a student at `microverse` learning `ruby`, `react`, `teamwork`
 - 💬 [Max The Stranger Blog](https://code.maxthestranger.com/)
 
 ### 🛠 I code using
