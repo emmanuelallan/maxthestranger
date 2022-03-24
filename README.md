@@ -4,7 +4,7 @@
 
 I'm Max The Stranger
 
-- 🌱 I’m currently a student and a mentor at `microverse` with a love for `javascript`, `react`, `ruby` & `agile methodologies`. I produce [```music```](https://music.maxthestranger.com/) and create content in my spare time. Open to new opportunities.
+- 🌱 I’m currently a student and a mentor at `microverse` with a love for `javascript`, `react`, `ruby` & `agile methodologies`. I also produce [```music```](https://music.maxthestranger.com/) and create content in my spare time. Open to new opportunities.
 - 💬 [Max The Stranger Blog](https://code.maxthestranger.com/)
 
 ### 🛠 I code using
