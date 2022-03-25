@@ -2,9 +2,9 @@
 
 <br />
 
-I'm Max The Stranger
+I'm Max The Stranger, Full-stack software developer
 
-- 🌱 I’m currently a student and a mentor at `microverse` with a love for `javascript`, `react`, `ruby` & `agile methodologies`. I also produce [```music```](https://music.maxthestranger.com/) and create content in my spare time. Open to new opportunities.
+- 🌱 I’m currently a student and a mentor at `microverse` with a love for `javascript`, `react`, `ruby` & `agile methodologies`. I also produce [`music`](https://music.maxthestranger.com/) and create content in my spare time. Open to new opportunities.
 - 💬 [Max The Stranger Blog](https://code.maxthestranger.com/)
 
 ### 🛠 I code using
@@ -26,6 +26,7 @@ I'm Max The Stranger
 ![maxthestranger's github stats](https://github-readme-stats.vercel.app/api?username=maxthestranger&show_icons=true&theme=vue-dark)
 
 ![](https://komarev.com/ghpvc/?username=maxthestranger&color=152136)
+
 <!--
 **maxthestranger/maxthestranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,6 +43,9 @@ Here are some ideas to get you started:
 - 📫 [Dreamhunter resume](https://hacknical.com/maxthestranger/resume?locale=zh)
 -->
 <hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3 align="center">📫 Connect with me:<h3>
 
