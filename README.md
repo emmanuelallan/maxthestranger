@@ -2,9 +2,9 @@
 
 <br />
 
-I'm Emmanuel Allan, Full-stack software developer
+I'm Emmanuel Allan, Full-stack web developer
 
-- 🌱 I’m currently a student and a mentor at `microverse` with a love for `javascript`, `react`, `ruby` & `agile methodologies`. I also produce [`music`](https://music.maxthestranger.com/) and create content in my spare time. Open to new opportunities.
+- 🌱 I’m currently a student and a mentor at `microverse` with a love for `JavaScript`, `React`, `Ruby/Ruby on Rails` & `Agile Methodologies`. I also produce [`music`](https://music.maxthestranger.com/) and create content in my spare time. Open to new opportunities.
 - 💬 [Max The Stranger Blog](https://code.maxthestranger.com/)
 
 ### 🛠 I code using
