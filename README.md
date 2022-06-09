@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   35.03 %
-SQL          3 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 %
-HTML         2 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   19.97 %
-CSS          2 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
-Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+JavaScript   4 hrs 41 mins   ██████████▓░░░░░░░░░░░░░░   42.07 %
+SQL          3 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   31.73 %
+HTML         2 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
+CSS          39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
