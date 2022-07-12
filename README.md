@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         2 hrs 6 mins    ██████████████████▒░░░░░░   73.30 %
-HTML         21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-ERB          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Ruby         3 hrs 21 mins   ███████████████████▓░░░░░   79.17 %
+HTML         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+ERB          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
