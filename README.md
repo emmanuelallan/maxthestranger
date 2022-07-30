@@ -44,14 +44,6 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-<!--START_SECTION:waka-->
-
-```text
-Ruby   2 mins          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
 <h3 align="center">📫 Connect with me:<h3>
 
 <p align="center">
