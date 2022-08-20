@@ -17,6 +17,7 @@ I'm Emmanuel Allan, Full-stack developer
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
+![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-05122A?style=flat&logo=rubyonrails)
 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker) -->
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript) -->
