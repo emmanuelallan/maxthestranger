@@ -4,7 +4,7 @@
 
 I'm Emmanuel Allan, Full-stack developer
 
-- 🌱 I’m currently a mentor at [`microverse`](https://www.microverse.org/) with a love for `JavaScript`, `React`, `Ruby/Ruby on Rails` & `Node Js`. I also produce [`music`](https://music.maxthestranger.com/) and create content in my spare time. Open to new opportunities.
+- 🌱 I’m currently a mentor at [`microverse`](https://www.microverse.org/) with a love for `JavaScript`, `Java`, `React`, `Ruby/Ruby on Rails` & `Node Js`. I also produce [`music`](https://music.maxthestranger.com/) and create content in my spare time. Open to new opportunities.
 - 💬 [Max The Stranger Blog](https://code.maxthestranger.com/)
 
 ### 🛠 I code using
